@@ -12,7 +12,7 @@
 ### Запуск приложения:
 
 #### 1. Скопировать этот репозиторий
-   > `git@github.com:SuvorovaElvina/botvkapi.git`
+   `git@github.com:SuvorovaElvina/botvkapi.git`
 #### 2. Настроить vk.properties файл:
   1. Открыть `src/main/resources/vk.properties`.
   2. Узнать данные из ВКонтакте, такие как ключ доступа, секретный ключ, код подтверждения адреса сервера Callback Api
